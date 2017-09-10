@@ -1,0 +1,19 @@
+.s {
+    font-size: 21px;
+}
+
+.m, h3, option {
+    font-size: 34px !important;
+}
+
+.l {
+    font-size:55px;
+}
+
+.xl {
+    font-size:89px;
+}
+
+button {
+    height:34px;
+}

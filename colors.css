@@ -1,0 +1,31 @@
+body {
+    background-color: #4B6987;
+}
+
+h2, .m {
+    color: #A7AB58;
+}
+
+h3, h4 {
+    color: #9CBDA8;
+}
+
+a {
+    color: #9CBDA8;
+}
+
+input, input.m, select {
+    border: none;
+    outline: none;
+    color: #4B6987 !important;
+    background-color: #9CBDA8;
+}
+
+.btn-primary {
+    background-color: #9CBDA8;
+    color: #4b6987;
+}
+
+.btn-primary:hover, a:hover {
+    background-color: #A7AB58;
+}
